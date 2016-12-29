@@ -1,0 +1,3 @@
+rootProject.name = 'walkboard'
+
+include ':app'
